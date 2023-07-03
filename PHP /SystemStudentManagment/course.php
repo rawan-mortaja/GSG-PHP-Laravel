@@ -4,7 +4,7 @@ namespace Models;
 
 class Course
 {
-    private $id;
+    private readonly int $id;
     private $name;
 
     public function __construct($id, $name)

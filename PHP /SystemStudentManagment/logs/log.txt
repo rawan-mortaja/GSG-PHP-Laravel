@@ -1,0 +1,12 @@
+[2023-06-24 13:05:41] Student added: Rawan
+[2023-06-24 13:05:41] Student added: Mohammed
+[2023-06-24 13:06:57] Student added: Rawan
+[2023-06-24 13:06:57] Student added: Mohammed
+[2023-06-24 13:08:01] Student added: Rawan
+[2023-06-24 13:08:01] Student added: Mohammed
+[2023-06-24 13:08:01] Student updated: Rawan
+[2023-06-24 13:08:01] Student deleted: Mohammed
+[2023-06-24 13:08:14] Student added: Rawan
+[2023-06-24 13:08:14] Student added: Mohammed
+[2023-06-24 13:08:14] Student updated: Rawan
+[2023-06-24 13:08:14] Student deleted: Mohammed

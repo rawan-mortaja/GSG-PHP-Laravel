@@ -4,7 +4,7 @@ namespace Traits;
 
 trait Loggable
 {
-    private $logFile = '../logs/log.txt';
+    private $logFile = __DIR__ . '/logs/log.txt';
 
     private function log($message)
     {

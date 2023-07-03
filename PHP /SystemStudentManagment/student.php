@@ -2,9 +2,10 @@
 
 namespace Models;
 
+require_once __DIR__ . '/Course.php';
 class Student
 {
-    private $id;
+    private readonly int $id;
     private $name;
     private $email;
     private $courses;
